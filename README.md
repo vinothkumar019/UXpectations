@@ -4,6 +4,9 @@
 Live Portfolio Link:  
 -> https://uexpectations-team-portfolio.netlify.app/
 
+Prototype Link:  
+-> https://www.figma.com/design/HC1jpy2dJUe3o9KY6sH9Ux/Prototype?node-id=0-1&t=n88nH3R4gdKXCkwm-1
+
 ---
 
 ## Project Overview  
@@ -33,9 +36,7 @@ The PMS system solves this with a **centralized, easy-to-use, modern digital pla
 ---
 
 ## Design Process  
-
 Understand → Research → Analyze → Ideate → Wireframe → Design → Prototype
-
 
 ---
 
@@ -55,7 +56,7 @@ Understand → Research → Analyze → Ideate → Wireframe → Design → Prot
 
 ---
 
-##  Problem Areas Identified  
+## Problem Areas Identified  
 - No real-time updates for job postings  
 - Students miss deadlines  
 - Placement officers struggle to manage large student data  
@@ -63,7 +64,7 @@ Understand → Research → Analyze → Ideate → Wireframe → Design → Prot
 
 ---
 
-##  Project Goals  
+## Project Goals  
 - Fast & transparent communication  
 - Smooth job application experience  
 - Simple verification system for officers  
@@ -72,18 +73,17 @@ Understand → Research → Analyze → Ideate → Wireframe → Design → Prot
 ---
 
 ## Information Architecture  
-Login → Dashboard
-↓
-Students Section
-↓
-Recruiter Section
-↓
-Job Listings → Apply → Status
-↓
-Profile Management
+Login → Dashboard  
+↓  
+Students Section  
+↓  
+Recruiter Section  
+↓  
+Job Listings → Apply → Status  
+↓  
+Profile Management  
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d275155-7d6a-42e9-9502-e460eedab495" />
-
 
 ---
 
@@ -165,11 +165,11 @@ Created in Figma with modern UI elements:
 ---
 
 ## Team Members  
-- Vinoth Kumar R (2023503559)
-- Nagaraj N A (2023503541)
-- Dhanush A (2023503540)
-- Mohammad Asif (2023503066)
-- Santhosh M (2023503702) 
+- Vinoth Kumar R (2023503559)  
+- Nagaraj N A (2023503541)  
+- Dhanush A (2023503540)  
+- Mohammad Asif (2023503066)  
+- Santhosh M (2023503702)  
 
 ---
 
